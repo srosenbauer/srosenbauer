@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Seth.
 
-<!--
-**srosenbauer/srosenbauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some quick tidbits about me:
+                                                                                                                            
+- 🐶 Have a wonderful puppers, named Sunny                                                                                              
+- 🗽 I live in NYC on the UES!
+- 🏃 I'm a Co-Founder at [Joggr](https://joggr.io)
+- 🏀 Big basketball & football fan so always watching a game!
+- 😄 Pronouns: He/Him/His
 
-Here are some ideas to get you started:
+### Give a 🦆 about docs?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you believe you and your teammates deserve a documentation platform built for you (aka modern software teams) please 
+reach out to me on bluesky: [@sethrosenbauer.bsky.social](https://bsky.app/profile/sethrosenbauer.bsky.social) or visit our website at [joggr.io](https://www.joggr.io)
