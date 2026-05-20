@@ -1,3 +1,12 @@
+<div align="center">
+
+<img src="./srosenbauer.png" width="100%" alt="Whoami banner"/>
+
+</div>
+
+---
+
+
 ## 👋 Hi, I'm Seth.
 
 Some quick tidbits about me:
